@@ -1,0 +1,11 @@
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\FavoritePersons\PersonalDbLib\bin\Debug\PersonalDbLib.dll.config
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\FavoritePersons\PersonalDbLib\bin\Debug\PersonalDbLib.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\FavoritePersons\PersonalDbLib\bin\Debug\PersonalDbLib.pdb
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\FavoritePersons\PersonalDbLib\bin\Debug\EntityFramework.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\FavoritePersons\PersonalDbLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\FavoritePersons\PersonalDbLib\bin\Debug\EntityFramework.xml
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\FavoritePersons\PersonalDbLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\FavoritePersons\PersonalDbLib\obj\Debug\PersonalDbLib.csprojAssemblyReference.cache
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\FavoritePersons\PersonalDbLib\obj\Debug\PersonalDbLib.csproj.CopyComplete
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\FavoritePersons\PersonalDbLib\obj\Debug\PersonalDbLib.dll
+C:\Users\mosha\Documents\Schule\4.Klasse\POS\FavoritePersons\PersonalDbLib\obj\Debug\PersonalDbLib.pdb
